@@ -10,6 +10,8 @@ In this course we present the main essentials algorithm in Reinforcement Learnin
 This course follows [Reinforcement Learning. An Introduction Richard S. Sutton and Andrew G. Barto](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf) and is free !!
 
 
+Python problems replication for Sutton & Barto's book, [Github Repository](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction).
+
 
 # How to use the Notebooks?
 
